@@ -1,0 +1,43 @@
+name: Generate GitHub metrics
+
+on:
+  schedule:
+    - cron: "0 8 * * *" # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+
+          # Your username
+          user: yorchperaza
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          # Looks good on GitHub (works in light/dark)
+          config_display: large
+          config_octicon: yes
+
+          # Add useful sections
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # Use GitHub token (auto provided)
+          token: ${{ secrets.GITHUB_TOKEN }}
