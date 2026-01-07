@@ -84,7 +84,7 @@ An **AI-native, open-source CMS** built on MonkeysLegion — API-first, automati
 
 ---
 
-## ✍️ Latest Dev.to Articles (auto-updated)
+## ✍️ Latest Dev.to Articles
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
