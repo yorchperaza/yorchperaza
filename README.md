@@ -93,8 +93,19 @@ An **AI-native, open-source CMS** built on MonkeysLegion — API-first, automati
 
 ## 📊 GitHub Stats
 
-![Jorge Peraza GitHub stats](https://github-readme-stats.vercel.app/api?username=yorchperaza&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yorchperaza&layout=compact&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yorchperaza&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200"
+    alt="Jorge Peraza GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yorchperaza&layout=compact&hide_border=true&cache_seconds=7200"
+    alt="Top languages"
+  />
+</p>
 
 ---
 
