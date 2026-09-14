@@ -87,11 +87,11 @@ An **AI-native, open-source CMS** built on MonkeysLegion — API-first, automati
 ## ✍️ Latest Dev.to Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Your AI Coding Agent Shouldn&#39;t Live on Your Laptop](https://dev.to/yorchperaza/your-ai-coding-agent-shouldnt-live-on-your-laptop-166j)
 - [Meet Capuchin AI: Fast, Reasoning, and Not the Only Option](https://dev.to/yorchperaza/meet-capuchin-ai-fast-reasoning-and-not-the-only-option-10km)
 - [Authentication with MonkeysLegion 2.0 + Next.js / React](https://dev.to/yorchperaza/authentication-with-monkeyslegion-20-nextjs-react-2en4)
 - [MonkeysLegion 2.0 Is Released — Introducing Apex AI and a Faster PHP Runtime](https://dev.to/yorchperaza/monkeyslegion-20-is-released-introducing-apex-ai-and-a-faster-php-runtime-1m57)
 - [I Replaced GitHub + Jira + Vercel + PlanetScale + Datadog With One Free Platform](https://dev.to/yorchperaza/i-replaced-github-jira-vercel-planetscale-datadog-with-one-free-platform-5gkl)
-- [We&#39;re Giving Away Free Servers With Every Project — App, Database, Cache, Worker. No Trial. No Credit Card.](https://dev.to/yorchperaza/were-giving-away-free-servers-with-every-project-app-database-cache-worker-no-trial-no-1ocf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
