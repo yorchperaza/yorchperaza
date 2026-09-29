@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/2913369?s=400&u=04140a160ea1cba08aef47d390bab050e912061f&v=4" alt="Jorge Peraza" width="180" style="border-radius:50%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/yorchperaza">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+MonkeysCode+%E2%80%94+an+agentic+coding+IDE;Serving+Capuchin+on+my+own+H100%2FH200+GPU+stack;92.7%25+of+production+requests+served+in-house;Go+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+PHP+%E2%80%94+20%2B+years+in+production" alt="Typing intro" />
   </a>
@@ -171,8 +175,27 @@ flowchart LR
 ## 📊 GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yorchperaza&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9&ring_color=8B5CF6" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yorchperaza&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages" />
+  <a href="https://github.com/yorchperaza">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yorchperaza&theme=2077" alt="Profile details" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yorchperaza">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yorchperaza&theme=2077" alt="Stats" />
+  </a>
+  <a href="https://github.com/yorchperaza">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yorchperaza&theme=2077&utcOffset=-7" alt="Productive time" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yorchperaza">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yorchperaza&theme=2077" alt="Top languages by repo" />
+  </a>
+  <a href="https://github.com/yorchperaza">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yorchperaza&theme=2077" alt="Top languages by commit" />
+  </a>
 </p>
 
 <p align="center">
